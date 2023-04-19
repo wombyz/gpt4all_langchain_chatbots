@@ -1,0 +1,1 @@
+LocalGPT is a localized version of GPT3.5.
