@@ -1,1 +1,1 @@
-LocalGPT is a localized version of GPT3.5.
+A few different ways of using GPT4All stand alone and with LangChain.
